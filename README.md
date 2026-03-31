@@ -1,4 +1,4 @@
-# 🔐 Password Manager Desktop Application
+# 🔐 Password Manager Desktop Application.
 
 A simple and secure desktop password manager built using **Python** and **Tkinter**  
 This application helps users generate strong passwords, store credentials, and manage login information efficiently.
