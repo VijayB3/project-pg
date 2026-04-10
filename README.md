@@ -33,7 +33,7 @@ This project demonstrates GUI development, event handling, file operations, and 
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Technologies Used.
 
 - **Python**
 - **Tkinter** (GUI)
