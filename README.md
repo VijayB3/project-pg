@@ -5,7 +5,7 @@ This application helps users generate strong passwords, store credentials, and m
 
 ---
 
-## 📌 Project Overview.
+## 📌 Project Overview
 
 Remembering multiple passwords is difficult.  
 This tool reduces that problem by allowing users to:
