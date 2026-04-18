@@ -20,7 +20,7 @@ This project demonstrates GUI development, event handling, file operations, and 
 
 ---
 
-## 🚀 Features.
+## 🚀 Features
 
 ✅ User-friendly graphical interface  
 ✅ Random password generation (letters, numbers, symbols)  
