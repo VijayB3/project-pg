@@ -76,7 +76,7 @@ website | email | password
 
 ---
 
-## 🖼 Application Preview.
+## 🖼 Application Preview
 
 _Add screenshots of:_
 - Main window  
