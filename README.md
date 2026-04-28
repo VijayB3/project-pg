@@ -142,7 +142,7 @@ python main.py
 
 **Vijay Bhalerao**
 
-Aspiring Developer | Interested in Backend, Cloud & DevOps
+Aspiring Developer | Interested in Backend, Cloud & DevOps.
 
 ---
 
